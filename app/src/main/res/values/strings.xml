@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SelectionTrackerExample</string>
+    <string name="clear_selection">Clear selection</string>
+    <string name="notes_selected">Notes selected: %d</string>
+    <string name="search">Search</string>
+    <string name="delete_items">Delete items</string>
+    <string name="click_message">%s clicked</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="description">Description</string>
+    <string name="invalid_input_message">Input not valid</string>
+    <string name="there_are_no_notes">There are no notes</string>
+</resources>
